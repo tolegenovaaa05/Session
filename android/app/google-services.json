@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21496548710",
+    "project_id": "cybernews-3291a",
+    "storage_bucket": "cybernews-3291a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21496548710:android:fc8e3f733d212196ba0ca7",
+        "android_client_info": {
+          "package_name": "com.example.cyber_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfk_9nJs1iele0H_JWjK9MeO6nQcrJqok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
